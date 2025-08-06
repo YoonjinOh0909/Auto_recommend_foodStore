@@ -4,31 +4,31 @@
     이 리포지토리는 Google Places API를 사용하여 서울의 음식점 정보를 자동으로 업데이트합니다.
 
     ## 상위 5개 이하의 음식점 정보
-    > 오늘의 추천 음식 : 간장게장
+    > 오늘의 추천 음식 : 샐러드
 
-	이름: Hongik Gejang
-	주소: 59 World Cup buk-ro, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5592964, 'lng': 126.91678}
+	이름: 샐러디상암DMC점
+	주소: Seoul, South Korea
+	위치: {'lat': 37.5815202, 'lng': 126.8891184}
 	------------------------------
-	이름: Odarijip Ganjang Gejang
-	주소: 2F, 28 Myeongdong 8na-gil, Jung District, Seoul, South Korea
-	위치: {'lat': 37.5613796, 'lng': 126.9834141}
+	이름: 아보 상암점
+	주소: South Korea, Seoul, 서울 마포구 월드컵북로 402 KGIT센터 1층
+	위치: {'lat': 37.5802195, 'lng': 126.8890338}
 	------------------------------
-	이름: Myeonghyeon Manganjang Crab AYCE Hapjeong 명현만간장게장무한리필 합정본점
-	주소: 45 Yanghwa-ro, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5500932, 'lng': 126.9137839}
+	이름: Cheongnyeon Salad & Pub
+	주소: 20 Yonsei-ro 11-gil, Seodaemun-gu, Seoul, South Korea
+	위치: {'lat': 37.5590417, 'lng': 126.9357705}
 	------------------------------
-	이름: Hamcho Ganjang Gejang
-	주소: 27 Myeongdong 8ga-gil, Jung District, Seoul, South Korea
-	위치: {'lat': 37.5620144, 'lng': 126.9864994}
+	이름: Bistro ever 비스트로 에버
+	주소: 332-16 World Cup buk-ro, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.576429, 'lng': 126.8945922}
 	------------------------------
-	이름: 대장금 간장게장 (Produced by Odarijip)
-	주소: South Korea, 4F Jung District, B Building Myeongdong 8na-gil, 10 KR 서울특별시 Savoy Hotel
-	위치: {'lat': 37.561554, 'lng': 126.9844507}
+	이름: 그린보이즈 샐러드&포케 신촌본점(Salad&Poke)
+	주소: South Korea, Seoul, Seodaemun-gu, Myeongmul-gil, 38 그린보이즈 신촌본점 1층
+	위치: {'lat': 37.5583414, 'lng': 126.9387315}
 	------------------------------
 
 
-    ⏳ 업데이트 시간: 2025-08-06 04:10:09 (UTC)
+    ⏳ 업데이트 시간: 2025-08-06 04:56:32 (UTC)
 
     ---
     자동 업데이트 봇에 의해 관리됩니다.
