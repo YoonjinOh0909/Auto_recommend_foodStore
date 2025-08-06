@@ -4,31 +4,31 @@
     이 리포지토리는 Google Places API를 사용하여 서울의 음식점 정보를 자동으로 업데이트합니다.
 
     ## 상위 5개 이하의 음식점 정보
-    > 오늘의 추천 음식 : 우동
+    > 오늘의 추천 음식 : 김밥
 
-	이름: 땡초우동 in 포차 홍대점
-	주소: 151 Eoulmadang-ro, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5567201, 'lng': 126.926569}
+	이름: 김밥천국 디엠씨점
+	주소: 1601 상암동 Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5801248, 'lng': 126.8889591}
 	------------------------------
-	이름: 도깨비 우동
-	주소: 250 Jeungga-ro, Seodaemun-gu, Seoul, South Korea
-	위치: {'lat': 37.5833255, 'lng': 126.9121964}
+	이름: 김밥사랑
+	주소: 13 Jeungsan-ro 9-gil, Jeungsan-dong, Eunpyeong District, Seoul, South Korea
+	위치: {'lat': 37.5854366, 'lng': 126.9088421}
 	------------------------------
-	이름: Houdong
-	주소: South Korea, 우측 41-52번지 KR 서울특별시 은평구 역촌동 은혜빌딩 1층
-	위치: {'lat': 37.6017229, 'lng': 126.9202726}
+	이름: 얌샘김밥 상암점
+	주소: 357-1 Sangam-dong, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.58011279999999, 'lng': 126.8833961}
 	------------------------------
-	이름: 만평우동 상암KGIT점(manpyeongudon)
-	주소: South Korea, Seoul, Mapo-gu, World Cup buk-ro, 402 KGIT센터 지하 푸드코트 113호
-	위치: {'lat': 37.5801015, 'lng': 126.8889798}
+	이름: 청담마녀김밥 상암점
+	주소: 1597 Sangam-dong, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5817013, 'lng': 126.888375}
 	------------------------------
-	이름: Houdong
-	주소: South Korea, Seooreung-ro, 28 KR 서울특별시 은평구 녹번동 82-37
-	위치: {'lat': 37.6035229, 'lng': 126.9256736}
+	이름: 여우애김밥 상암DMC점
+	주소: South Korea, KR 서울특별시 마포구 상암동 6-2번지 1층 R112호
+	위치: {'lat': 37.5797991, 'lng': 126.8899183}
 	------------------------------
 
 
-    ⏳ 업데이트 시간: 2025-08-06 17:54:39 (UTC)
+    ⏳ 업데이트 시간: 2025-08-06 18:28:10 (UTC)
 
     ---
     자동 업데이트 봇에 의해 관리됩니다.
