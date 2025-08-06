@@ -10,8 +10,8 @@ README_PATH = "README.md"
 load_dotenv()
 
 API_KEY = os.getenv("RECOMMEND_API_KEY")
-if not API_KEY:
-    raise ValueError("API 키가 .env 파일에 설정되어 있지 않습니다.")
+# if not API_KEY:
+#     raise ValueError("API 키가 .env 파일에 설정되어 있지 않습니다.")
 
 # 현재 위치를 설정합니다. (예: 서울)
 location = "37.581662478729505, 126.88620960317084"  # 위도, 경도 형식
