@@ -37,7 +37,9 @@ jobs:
       - name: python 파일 실행 
         run: |
           python update_weather.py
-
+        env:
+          OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
+          
       - name: 변경내용 push 
         run: |
           git config --global user.name "github-actions[bot]"
