@@ -4,31 +4,31 @@
     이 리포지토리는 Google Places API를 사용하여 서울의 음식점 정보를 자동으로 업데이트합니다.
 
     ## 상위 5개 이하의 음식점 정보
-    > 오늘의 추천 음식 : 북어국
+    > 오늘의 추천 음식 : 동태찌개
 
-	이름: 다북어국
-	주소: 394-90 Seogyo-dong, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5494247, 'lng': 126.9150873}
+	이름: 바다양푼이찌개마을
+	주소: South Korea, 상암동 1597번지 사보이시티DMC B114호 마포구 서울특별시 KR
+	위치: {'lat': 37.5812709, 'lng': 126.8888702}
 	------------------------------
-	이름: 명품설렁탕&명품북어국 상암점
-	주소: 25 World Cup buk-ro 54-gil, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5819653, 'lng': 126.8892157}
+	이름: 이선생짜글이
+	주소: South Korea, Seoul, Mapo-gu, 상암동 World Cup buk-ro, 434 IT타워 1층
+	위치: {'lat': 37.5813924, 'lng': 126.885617}
 	------------------------------
-	이름: Mugyo-dong Bugeo-guk
-	주소: 38 Eulji-ro 1-gil, Jung District, Seoul, South Korea
-	위치: {'lat': 37.5677475, 'lng': 126.9798528}
+	이름: 합정초밥집 hapjeongsushi
+	주소: 38 Dongmak-ro 3-gil, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.549833, 'lng': 126.9175514}
 	------------------------------
-	이름: 진시황북어국
-	주소: 199 Baekbeom-ro, Singongdeok-dong, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5434957, 'lng': 126.9528366}
+	이름: 양푼이동태탕
+	주소: Seoul, South Korea
+	위치: {'lat': 37.5502707, 'lng': 126.848761}
 	------------------------------
-	이름: 원조북어국
-	주소: 117-1 Yangpyeong-ro, Yeongdeungpo District, Seoul, South Korea
-	위치: {'lat': 37.5374181, 'lng': 126.8943646}
+	이름: 아야진생태찌개 본점
+	주소: 150-2 Samseong-dong, Gangnam District, Seoul, South Korea
+	위치: {'lat': 37.5117913, 'lng': 127.0547593}
 	------------------------------
 
 
-    ⏳ 업데이트 시간: 2025-08-06 05:56:43 (UTC)
+    ⏳ 업데이트 시간: 2025-08-06 06:39:16 (UTC)
 
     ---
     자동 업데이트 봇에 의해 관리됩니다.
