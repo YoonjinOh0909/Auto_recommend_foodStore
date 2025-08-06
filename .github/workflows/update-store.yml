@@ -38,7 +38,7 @@ jobs:
         run: |
           python recommend_food.py
         env:
-          OPENWEATHER_API_KEY: ${{ secrets.RECOMMEND_API_KEY }}
+          RECOMMEND_API_KEY: ${{ secrets.RECOMMEND_API_KEY }}
           
       - name: 변경내용 push 
         run: |
