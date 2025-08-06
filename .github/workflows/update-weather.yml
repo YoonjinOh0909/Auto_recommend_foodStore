@@ -32,7 +32,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: pip 설치 
         run: |
-          pip install python-dotenv request
+          pip install python-dotenv requests
 
       - name: python 파일 실행 
         run: |
