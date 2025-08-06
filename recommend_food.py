@@ -9,7 +9,7 @@ README_PATH = "README.md"
 # .env 파일에서 API 키를 로드합니다.
 load_dotenv()
 
-API_KEY = os.getenv("API_KEY")
+API_KEY = os.getenv("RECOMMEND_API_KEY")
 if not API_KEY:
     raise ValueError("API 키가 .env 파일에 설정되어 있지 않습니다.")
 
