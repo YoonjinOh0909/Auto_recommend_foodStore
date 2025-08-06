@@ -4,31 +4,31 @@
     이 리포지토리는 Google Places API를 사용하여 서울의 음식점 정보를 자동으로 업데이트합니다.
 
     ## 상위 5개 이하의 음식점 정보
-    > 오늘의 추천 음식 : 짜장면
+    > 오늘의 추천 음식 : 선지해장국
 
-	이름: Dang-Gawon
-	주소: 173 World Cup buk-ro, Seongsan-dong, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5673241, 'lng': 126.909272}
+	이름: 상암양평해장국
+	주소: Sangam-dong, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5777309, 'lng': 126.8949357}
 	------------------------------
-	이름: Syesye
-	주소: South Korea, Seoul, Mapo-gu, World Cup buk-ro 50-gil, 14-6 1층 셰셰
-	위치: {'lat': 37.5769612, 'lng': 126.8939364}
+	이름: 철원양평해장국 신관
+	주소: 622 Janghang-dong, Ilsandong-gu, Goyang-si, Gyeonggi-do, South Korea
+	위치: {'lat': 37.6359186, 'lng': 126.7809894}
 	------------------------------
-	이름: 스타반점
-	주소: 52 World Cup-ro 36-gil, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5684071, 'lng': 126.9057959}
+	이름: 북성해장국
+	주소: 7 Sinchon-ro 35-gil, Seodaemun-gu, Seoul, South Korea
+	위치: {'lat': 37.5577733, 'lng': 126.955106}
 	------------------------------
-	이름: 용무있습니까상암점
-	주소: South Korea, KR 서울특별시 마포구 상암동 1603번지 주)문화방송 지1층 B117호
-	위치: {'lat': 37.5808799, 'lng': 126.8902985}
+	이름: 양평해장국
+	주소: 474-20 망원제2동 Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5615181, 'lng': 126.9043346}
 	------------------------------
-	이름: 홍콩반점0410 상암DMC점
-	주소: 1597 Sangam-dong, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5814494, 'lng': 126.8883867}
+	이름: Changseong-Og
+	주소: 25-16 Yongmun-dong, Yongsan District, Seoul, South Korea
+	위치: {'lat': 37.5363473, 'lng': 126.960395}
 	------------------------------
 
 
-    ⏳ 업데이트 시간: 2025-08-06 07:02:54 (UTC)
+    ⏳ 업데이트 시간: 2025-08-06 07:35:41 (UTC)
 
     ---
     자동 업데이트 봇에 의해 관리됩니다.
