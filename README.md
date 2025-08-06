@@ -4,31 +4,31 @@
     이 리포지토리는 Google Places API를 사용하여 서울의 음식점 정보를 자동으로 업데이트합니다.
 
     ## 상위 5개 이하의 음식점 정보
-    > 오늘의 추천 음식 : 동태찌개
+    > 오늘의 추천 음식 : 짜장면
 
-	이름: 바다양푼이찌개마을
-	주소: South Korea, 상암동 1597번지 사보이시티DMC B114호 마포구 서울특별시 KR
-	위치: {'lat': 37.5812709, 'lng': 126.8888702}
+	이름: Dang-Gawon
+	주소: 173 World Cup buk-ro, Seongsan-dong, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5673241, 'lng': 126.909272}
 	------------------------------
-	이름: 이선생짜글이
-	주소: South Korea, Seoul, Mapo-gu, 상암동 World Cup buk-ro, 434 IT타워 1층
-	위치: {'lat': 37.5813924, 'lng': 126.885617}
+	이름: Syesye
+	주소: South Korea, Seoul, Mapo-gu, World Cup buk-ro 50-gil, 14-6 1층 셰셰
+	위치: {'lat': 37.5769612, 'lng': 126.8939364}
 	------------------------------
-	이름: 합정초밥집 hapjeongsushi
-	주소: 38 Dongmak-ro 3-gil, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.549833, 'lng': 126.9175514}
+	이름: 스타반점
+	주소: 52 World Cup-ro 36-gil, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5684071, 'lng': 126.9057959}
 	------------------------------
-	이름: 양푼이동태탕
-	주소: Seoul, South Korea
-	위치: {'lat': 37.5502707, 'lng': 126.848761}
+	이름: 용무있습니까상암점
+	주소: South Korea, KR 서울특별시 마포구 상암동 1603번지 주)문화방송 지1층 B117호
+	위치: {'lat': 37.5808799, 'lng': 126.8902985}
 	------------------------------
-	이름: 아야진생태찌개 본점
-	주소: 150-2 Samseong-dong, Gangnam District, Seoul, South Korea
-	위치: {'lat': 37.5117913, 'lng': 127.0547593}
+	이름: 홍콩반점0410 상암DMC점
+	주소: 1597 Sangam-dong, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5814494, 'lng': 126.8883867}
 	------------------------------
 
 
-    ⏳ 업데이트 시간: 2025-08-06 06:39:16 (UTC)
+    ⏳ 업데이트 시간: 2025-08-06 07:02:54 (UTC)
 
     ---
     자동 업데이트 봇에 의해 관리됩니다.
