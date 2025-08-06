@@ -4,31 +4,31 @@
     이 리포지토리는 Google Places API를 사용하여 서울의 음식점 정보를 자동으로 업데이트합니다.
 
     ## 상위 5개 이하의 음식점 정보
-    > 오늘의 추천 음식 : 월남쌈
+    > 오늘의 추천 음식 : 된장찌개
 
-	이름: 소담촌 수색상암DMC점
-	주소: South Korea, Seoul, Eunpyeong District, Susaek-ro, 217 127호, 128호
-	위치: {'lat': 37.5795929, 'lng': 126.8986491}
+	이름: 검은도마 100번된장찌개
+	주소: 75 Maebongsan-ro, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5784734, 'lng': 126.8929439}
 	------------------------------
-	이름: 포머이 쌀국수 연남본점
-	주소: South Korea, KR 서울특별시 마포구 동교동 200-28 화봉빌딩 포머이쌀국수 홍대연남 2층
-	위치: {'lat': 37.5578139, 'lng': 126.9226874}
+	이름: 옥된장 상암점
+	주소: 63 World Cup buk-ro 44-gil, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5772363, 'lng': 126.8941367}
 	------------------------------
-	이름: 채선당상암디엠씨점
-	주소: 17 World Cup buk-ro 54-gil, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5814428, 'lng': 126.8886616}
+	이름: 마마된장상암점
+	주소: South Korea, Seoul, Mapo-gu, World Cup buk-ro 54-gil, 25 푸르지오시티 지하 1층 B111호
+	위치: {'lat': 37.5819653, 'lng': 126.8892157}
 	------------------------------
-	이름: 샤브모아 월남쌈
-	주소: 1415 Gyeongwon-daero, Bupyeong District, Incheon, South Korea
-	위치: {'lat': 37.491464, 'lng': 126.726256}
+	이름: 육장갈비상암점
+	주소: South Korea, 상암동 1597번지 사보이시티DMC 219 220 221호 마포구 서울특별시 KR
+	위치: {'lat': 37.5812331, 'lng': 126.8887663}
 	------------------------------
-	이름: 월남쌈many아
-	주소: South Korea, Seoul, Seodaemun-gu, Geobukgol-ro 18-gil, 8 1층
-	위치: {'lat': 37.5777635, 'lng': 126.9105595}
+	이름: 력 민물장어전문점
+	주소: 37 Seongam-ro 15-gil, Sangam-dong, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5772576, 'lng': 126.8964374}
 	------------------------------
 
 
-    ⏳ 업데이트 시간: 2025-08-06 14:46:02 (UTC)
+    ⏳ 업데이트 시간: 2025-08-06 15:01:02 (UTC)
 
     ---
     자동 업데이트 봇에 의해 관리됩니다.
