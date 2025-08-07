@@ -4,31 +4,31 @@
     이 리포지토리는 Google Places API를 사용하여 서울의 음식점 정보를 자동으로 업데이트합니다.
 
     ## 상위 5개 이하의 음식점 정보
-    > 오늘의 추천 음식 : 잔치국수
+    > 오늘의 추천 음식 : 짬뽕
 
-	이름: Wonjo Guksujip
-	주소: 10 Haengju-ro 17beon-gil, Deogyang-gu, Goyang-si, Gyeonggi-do, South Korea
-	위치: {'lat': 37.6015468, 'lng': 126.8277127}
+	이름: 중화백반 상암점
+	주소: 72 World Cup buk-ro 44-gil, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5775661, 'lng': 126.8939671}
 	------------------------------
-	이름: 상암동멸치국수
-	주소: South Korea, 상가 19-6번지 KR 서울특별시 마포구 상암동 1층
-	위치: {'lat': 37.576189, 'lng': 126.8959562}
+	이름: 로얄짬뽕
+	주소: 10 World Cup buk-ro 48-gil, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5766559, 'lng': 126.8944575}
 	------------------------------
-	이름: 명품잔치국수집
-	주소: 479-1 Seogyo-dong, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5546684, 'lng': 126.913495}
+	이름: 짬뽕지존 홍대점
+	주소: 44-1 Eoulmadang-ro, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5489167, 'lng': 126.9209115}
 	------------------------------
-	이름: GuksuJib
-	주소: 275 Baekbeom-ro, Yongsan District, Seoul, South Korea
-	위치: {'lat': 37.5399159, 'lng': 126.9604885}
+	이름: Jinjjalu
+	주소: 48 Donggyo-ro 19-gil, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5574411, 'lng': 126.9172369}
 	------------------------------
-	이름: 망향비빔국수 상암점
-	주소: 80 Maebongsan-ro, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5785367, 'lng': 126.8942815}
+	이름: 용무있습니까상암점
+	주소: South Korea, KR 서울특별시 마포구 상암동 1603번지 주)문화방송 지1층 B117호
+	위치: {'lat': 37.5808799, 'lng': 126.8902985}
 	------------------------------
 
 
-    ⏳ 업데이트 시간: 2025-08-06 23:55:22 (UTC)
+    ⏳ 업데이트 시간: 2025-08-07 00:28:38 (UTC)
 
     ---
     자동 업데이트 봇에 의해 관리됩니다.
