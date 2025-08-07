@@ -4,31 +4,31 @@
     이 리포지토리는 Google Places API를 사용하여 서울의 음식점 정보를 자동으로 업데이트합니다.
 
     ## 상위 5개 이하의 음식점 정보
-    > 오늘의 추천 음식 : 짬뽕
+    > 오늘의 추천 음식 : 메밀소바
 
-	이름: 중화백반 상암점
-	주소: 72 World Cup buk-ro 44-gil, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5775661, 'lng': 126.8939671}
+	이름: 마포즉석모밀촌
+	주소: South Korea, Seoul, Mapo-gu, Mangwon-dong, 521 B108호
+	위치: {'lat': 37.5527435, 'lng': 126.9035435}
 	------------------------------
-	이름: 로얄짬뽕
-	주소: 10 World Cup buk-ro 48-gil, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5766559, 'lng': 126.8944575}
+	이름: Soba Yeonguso
+	주소: 50-9 Myeongmul-gil, Seodaemun-gu, Seoul, South Korea
+	위치: {'lat': 37.5587293, 'lng': 126.9394417}
 	------------------------------
-	이름: 짬뽕지존 홍대점
-	주소: 44-1 Eoulmadang-ro, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5489167, 'lng': 126.9209115}
+	이름: CheongSu
+	주소: 112 Gukjegeumyung-ro, Yeongdeungpo District, Seoul, South Korea
+	위치: {'lat': 37.5183615, 'lng': 126.9338934}
 	------------------------------
-	이름: Jinjjalu
-	주소: 48 Donggyo-ro 19-gil, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5574411, 'lng': 126.9172369}
+	이름: Hocheon Sikdang
+	주소: 5 Yeonhui-ro 14-gil, Seodaemun-gu, Seoul, South Korea
+	위치: {'lat': 37.5674353, 'lng': 126.9317794}
 	------------------------------
-	이름: 용무있습니까상암점
-	주소: South Korea, KR 서울특별시 마포구 상암동 1603번지 주)문화방송 지1층 B117호
-	위치: {'lat': 37.5808799, 'lng': 126.8902985}
+	이름: 봉평메밀막국수쌈밥촌
+	주소: 52-9 Seongsa-dong, Deogyang-gu, Goyang-si, Gyeonggi-do, South Korea
+	위치: {'lat': 37.6386079, 'lng': 126.8534942}
 	------------------------------
 
 
-    ⏳ 업데이트 시간: 2025-08-07 00:28:38 (UTC)
+    ⏳ 업데이트 시간: 2025-08-07 00:28:53 (UTC)
 
     ---
     자동 업데이트 봇에 의해 관리됩니다.
