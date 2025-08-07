@@ -6,7 +6,7 @@ name: update-weather
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 2 * * *" # 매일 오전 2시 실행(UTC 기준이라 한국 시간 11시
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
