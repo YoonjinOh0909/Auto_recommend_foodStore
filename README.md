@@ -4,31 +4,31 @@
     이 리포지토리는 Google Places API를 사용하여 서울의 음식점 정보를 자동으로 업데이트합니다.
 
     ## 상위 5개 이하의 음식점 정보
-    > 오늘의 추천 음식 : 메밀소바
+    > 오늘의 추천 음식 : 샌드위치
 
-	이름: 마포즉석모밀촌
-	주소: South Korea, Seoul, Mapo-gu, Mangwon-dong, 521 B108호
-	위치: {'lat': 37.5527435, 'lng': 126.9035435}
+	이름: Subway
+	주소: South Korea, Seoul, Mapo-gu, Sangam-dong, World Cup buk-ro, 361 DMC 이안 오피스텔
+	위치: {'lat': 37.5770051, 'lng': 126.891433}
 	------------------------------
-	이름: Soba Yeonguso
-	주소: 50-9 Myeongmul-gil, Seodaemun-gu, Seoul, South Korea
-	위치: {'lat': 37.5587293, 'lng': 126.9394417}
+	이름: 써브웨이 상암DMC푸르지오시티점
+	주소: South Korea, Seoul, Mapo-gu, 상암동 World Cup buk-ro 54-gil, 25 DMC푸르지오시티 103호,104호
+	위치: {'lat': 37.5815202, 'lng': 126.8891184}
 	------------------------------
-	이름: CheongSu
-	주소: 112 Gukjegeumyung-ro, Yeongdeungpo District, Seoul, South Korea
-	위치: {'lat': 37.5183615, 'lng': 126.9338934}
+	이름: SALT HOUSE DELI Mangwon
+	주소: 14 World Cup-ro 19-gil, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5568102, 'lng': 126.9082215}
 	------------------------------
-	이름: Hocheon Sikdang
-	주소: 5 Yeonhui-ro 14-gil, Seodaemun-gu, Seoul, South Korea
-	위치: {'lat': 37.5674353, 'lng': 126.9317794}
+	이름: Lord Sandwich 로드샌드위치
+	주소: 45 Yeondaedongmun-gil, Daesin-dong, Seodaemun-gu, Seoul, South Korea
+	위치: {'lat': 37.5644144, 'lng': 126.9444386}
 	------------------------------
-	이름: 봉평메밀막국수쌈밥촌
-	주소: 52-9 Seongsa-dong, Deogyang-gu, Goyang-si, Gyeonggi-do, South Korea
-	위치: {'lat': 37.6386079, 'lng': 126.8534942}
+	이름: EASTSIDE CHICKEN SANDWICH
+	주소: 46 Donggyo-ro 27-gil, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5599559, 'lng': 126.9215081}
 	------------------------------
 
 
-    ⏳ 업데이트 시간: 2025-08-07 00:28:53 (UTC)
+    ⏳ 업데이트 시간: 2025-08-07 03:40:41 (UTC)
 
     ---
     자동 업데이트 봇에 의해 관리됩니다.
