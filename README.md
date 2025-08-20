@@ -4,31 +4,31 @@
     이 리포지토리는 Google Places API를 사용하여 서울의 음식점 정보를 자동으로 업데이트합니다.
 
     ## 상위 5개 이하의 음식점 정보
-    > 오늘의 추천 음식 : 비빔밥
+    > 오늘의 추천 음식 : 불고기
 
-	이름: 본죽&비빔밥 서교점 (Bonjuk & Bibimbap Seogyo)
-	주소: 65 World Cup buk-ro, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5596278, 'lng': 126.9166186}
+	이름: Yetmat Seoul Bulgogi
+	주소: 45 Changjeon-ro, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5465933, 'lng': 126.9318228}
 	------------------------------
-	이름: Bebab Bibimbap Korean Restaurant, Hongdae
-	주소: 3-3 Hongik-ro, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.552888, 'lng': 126.923735}
+	이름: 꺼먹촌정육식당
+	주소: South Korea, 상암동 2-56번지 1층 마포구 서울특별시 KR
+	위치: {'lat': 37.5783922, 'lng': 126.8957832}
 	------------------------------
-	이름: 본죽&비빔밥 수색DMC점
-	주소: 217 Susaek-ro, Eunpyeong District, Seoul, South Korea
-	위치: {'lat': 37.5796158, 'lng': 126.8990757}
+	이름: 청진식당
+	주소: 382 Samil-daero, Jongno District, Seoul, South Korea
+	위치: {'lat': 37.5686492, 'lng': 126.9879309}
 	------------------------------
-	이름: Hansukwha Bibimbap
-	주소: South Korea, Seoul, Mapo-gu, Dongmak-ro 15-gil, 5 B-1 102호
-	위치: {'lat': 37.5481504, 'lng': 126.9217905}
+	이름: 연수식당
+	주소: 17-1 Yeonseo-ro 27-gil, Galhyeon-dong, Eunpyeong District, Seoul, South Korea
+	위치: {'lat': 37.6179117, 'lng': 126.9174208}
 	------------------------------
-	이름: Jeonju Yu Halmeoni Bibimbap Bukchang-dong Main
-	주소: 12-2 Bukchang-dong, Jung District, Seoul, South Korea
-	위치: {'lat': 37.5629519, 'lng': 126.9782752}
+	이름: Insadong Hangane Bulgogi Jumak
+	주소: 59 Insadong-gil, Jongno District, Seoul, South Korea
+	위치: {'lat': 37.5751419, 'lng': 126.9833212}
 	------------------------------
 
 
-    ⏳ 업데이트 시간: 2025-08-19 03:06:56 (UTC)
+    ⏳ 업데이트 시간: 2025-08-20 03:05:08 (UTC)
 
     ---
     자동 업데이트 봇에 의해 관리됩니다.
