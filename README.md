@@ -4,31 +4,31 @@
     이 리포지토리는 Google Places API를 사용하여 서울의 음식점 정보를 자동으로 업데이트합니다.
 
     ## 상위 5개 이하의 음식점 정보
-    > 오늘의 추천 음식 : 본죽
+    > 오늘의 추천 음식 : 된장찌개
 
-	이름: 본죽 상암DMC점
-	주소: 1605 Sangam-dong, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5791192, 'lng': 126.8902941}
+	이름: 옥된장 상암점
+	주소: 63 World Cup buk-ro 44-gil, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5772363, 'lng': 126.8941367}
 	------------------------------
-	이름: 본죽 성산점
-	주소: 64-25 Jung-dong, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5701164, 'lng': 126.9038378}
+	이름: 제주도감 상암본점
+	주소: South Korea, Seoul, Mapo-gu, Maebongsan-ro 2-gil, 7 제주도감 1층
+	위치: {'lat': 37.5788278, 'lng': 126.8946446}
 	------------------------------
-	이름: 본죽&비빔밥 수색DMC점
-	주소: 217 Susaek-ro, Eunpyeong District, Seoul, South Korea
-	위치: {'lat': 37.5796158, 'lng': 126.8990757}
+	이름: 신사참숯갈비
+	주소: South Korea, 신사동 342-47번지 1층 은평구 서울특별시 KR
+	위치: {'lat': 37.5899417, 'lng': 126.9101412}
 	------------------------------
-	이름: 본죽 가재울뉴타운점
-	주소: South Korea, Seoul, Seodaemun-gu, 상가 Geobukgol-ro, 120 본죽 가재울뉴타운점 206동
-	위치: {'lat': 37.5753857, 'lng': 126.9152917}
+	이름: 검은도마 100번된장찌개
+	주소: 75 Maebongsan-ro, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5784734, 'lng': 126.8929439}
 	------------------------------
-	이름: 본죽&비빔밥 서교점 (Bonjuk & Bibimbap Seogyo)
-	주소: 65 World Cup buk-ro, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5596278, 'lng': 126.9166186}
+	이름: 직화장인 마곡센트럴점
+	주소: South Korea, Seoul, Gangseo-gu, Gonghang-daero, 227 314호
+	위치: {'lat': 37.5595609, 'lng': 126.8327215}
 	------------------------------
 
 
-    ⏳ 업데이트 시간: 2025-08-25 03:11:41 (UTC)
+    ⏳ 업데이트 시간: 2025-08-26 03:05:49 (UTC)
 
     ---
     자동 업데이트 봇에 의해 관리됩니다.
