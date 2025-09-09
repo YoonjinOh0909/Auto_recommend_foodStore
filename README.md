@@ -4,31 +4,31 @@
     이 리포지토리는 Google Places API를 사용하여 서울의 음식점 정보를 자동으로 업데이트합니다.
 
     ## 상위 5개 이하의 음식점 정보
-    > 오늘의 추천 음식 : 청국장
+    > 오늘의 추천 음식 : 일본라멘
 
-	이름: 오시오 건강밥상 2호점
-	주소: 41-29 Sangam-dong, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5769477, 'lng': 126.8934498}
+	이름: Oreno Ramen Eunpyeong
+	주소: 366 Bulgwangcheon-gil, Eungam-dong, Eunpyeong District, Seoul, South Korea
+	위치: {'lat': 37.5903119, 'lng': 126.9143464}
 	------------------------------
-	이름: 물빛마을청국장
-	주소: 105-1 Susaek-dong, Eunpyeong District, Seoul, South Korea
-	위치: {'lat': 37.5825314, 'lng': 126.8960604}
+	이름: Oreno Ramen Main Store
+	주소: 16 Dongmak-ro 8-gil, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5472531, 'lng': 126.9178146}
 	------------------------------
-	이름: 더담청국장한식집
-	주소: 189-12 Wonheung-dong, Deogyang-gu, Goyang-si, Gyeonggi-do, South Korea
-	위치: {'lat': 37.6464447, 'lng': 126.8751131}
+	이름: Karamenya
+	주소: South Korea, Seoul, Seodaemun-gu, Yonsei-ro 7an-gil, 34-1 1층
+	위치: {'lat': 37.5581868, 'lng': 126.9348282}
 	------------------------------
-	이름: 전주토종청국장
-	주소: South Korea, 응암동 750-13번지 1층 은평구 서울특별시 KR
-	위치: {'lat': 37.58715600000001, 'lng': 126.9179038}
+	이름: 유타로 상암점
+	주소: South Korea, Seoul, Mapo-gu, World Cup buk-ro 54-gil, 25 상암푸르지오시티 B1F
+	위치: {'lat': 37.5819517, 'lng': 126.8889837}
 	------------------------------
-	이름: Bukchang-dong Cheonggukjang House
-	주소: 94-36 Bukchang-dong, Jung District, Seoul, South Korea
-	위치: {'lat': 37.5622298, 'lng': 126.9784418}
+	이름: Hongdae Ramen Salt Noodle Lab
+	주소: South Korea, Seoul, Mapo-gu, Wausan-ro 17-gil, 26 1층
+	위치: {'lat': 37.5502316, 'lng': 126.9214726}
 	------------------------------
 
 
-    ⏳ 업데이트 시간: 2025-09-08 03:03:02 (UTC)
+    ⏳ 업데이트 시간: 2025-09-09 02:58:07 (UTC)
 
     ---
     자동 업데이트 봇에 의해 관리됩니다.
