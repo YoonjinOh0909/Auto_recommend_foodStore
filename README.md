@@ -4,31 +4,31 @@
     이 리포지토리는 Google Places API를 사용하여 서울의 음식점 정보를 자동으로 업데이트합니다.
 
     ## 상위 5개 이하의 음식점 정보
-    > 오늘의 추천 음식 : 잔치국수
+    > 오늘의 추천 음식 : 타코
 
-	이름: 상암동멸치국수
-	주소: South Korea, 상가 19-6번지 KR 서울특별시 마포구 상암동 1층
-	위치: {'lat': 37.576189, 'lng': 126.8959562}
+	이름: 고수한잎
+	주소: 12 Seongam-ro 15-gil, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5782258, 'lng': 126.8956254}
 	------------------------------
-	이름: 명품잔치국수집
-	주소: 479-1 Seogyo-dong, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5546684, 'lng': 126.913495}
+	이름: Taco Dot
+	주소: 51 World Cup-ro 19-gil, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5551576, 'lng': 126.9075949}
 	------------------------------
-	이름: GuksuJib
-	주소: 275 Baekbeom-ro, Yongsan District, Seoul, South Korea
-	위치: {'lat': 37.5399159, 'lng': 126.9604885}
+	이름: 더타코부스 홍대점
+	주소: South Korea, Seoul, Mapo-gu, Seogyo-dong, Wausan-ro 21-gil, 10 1층
+	위치: {'lat': 37.5525533, 'lng': 126.9233804}
 	------------------------------
-	이름: 잔치국수 유진분식
-	주소: 291-11 Bukgajwa-dong, Seodaemun-gu, Seoul, South Korea
-	위치: {'lat': 37.5813355, 'lng': 126.9144171}
+	이름: 칸스 다이닝 연남본점
+	주소: South Korea, Seoul, Mapo-gu, Donggyo-ro, 265 2층
+	위치: {'lat': 37.5633678, 'lng': 126.9252282}
 	------------------------------
-	이름: 행주산성잔치국수
-	주소: South Korea, Gyeonggi-do, Goyang-si, Deogyang-gu, Haengju-ro, 69 1층
-	위치: {'lat': 37.60493659999999, 'lng': 126.8246593}
+	이름: Rey Del Taco
+	주소: South Korea, Seoul, Mapo-gu, Dongmak-ro 2-gil, 18 1층
+	위치: {'lat': 37.5477921, 'lng': 126.9144751}
 	------------------------------
 
 
-    ⏳ 업데이트 시간: 2025-09-12 02:51:23 (UTC)
+    ⏳ 업데이트 시간: 2025-09-13 02:42:03 (UTC)
 
     ---
     자동 업데이트 봇에 의해 관리됩니다.
