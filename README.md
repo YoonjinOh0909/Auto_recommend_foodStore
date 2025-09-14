@@ -4,31 +4,31 @@
     이 리포지토리는 Google Places API를 사용하여 서울의 음식점 정보를 자동으로 업데이트합니다.
 
     ## 상위 5개 이하의 음식점 정보
-    > 오늘의 추천 음식 : 타코
+    > 오늘의 추천 음식 : 동태찌개
 
-	이름: 고수한잎
-	주소: 12 Seongam-ro 15-gil, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5782258, 'lng': 126.8956254}
+	이름: 바다양푼이찌개마을
+	주소: South Korea, 상암동 1597번지 사보이시티DMC B114호 마포구 서울특별시 KR
+	위치: {'lat': 37.5812709, 'lng': 126.8888702}
 	------------------------------
-	이름: Taco Dot
-	주소: 51 World Cup-ro 19-gil, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5551576, 'lng': 126.9075949}
+	이름: 아야진생태찌개 본점
+	주소: 150-2 Samseong-dong, Gangnam District, Seoul, South Korea
+	위치: {'lat': 37.5117913, 'lng': 127.0547593}
 	------------------------------
-	이름: 더타코부스 홍대점
-	주소: South Korea, Seoul, Mapo-gu, Seogyo-dong, Wausan-ro 21-gil, 10 1층
-	위치: {'lat': 37.5525533, 'lng': 126.9233804}
+	이름: 양푼이동태탕
+	주소: Seoul, South Korea
+	위치: {'lat': 37.5502707, 'lng': 126.848761}
 	------------------------------
-	이름: 칸스 다이닝 연남본점
-	주소: South Korea, Seoul, Mapo-gu, Donggyo-ro, 265 2층
-	위치: {'lat': 37.5633678, 'lng': 126.9252282}
+	이름: 명동찌개마을 불광역
+	주소: 274-14 불광제1동 Eunpyeong District, Seoul, South Korea
+	위치: {'lat': 37.611482, 'lng': 126.9297655}
 	------------------------------
-	이름: Rey Del Taco
-	주소: South Korea, Seoul, Mapo-gu, Dongmak-ro 2-gil, 18 1층
-	위치: {'lat': 37.5477921, 'lng': 126.9144751}
+	이름: 김미자 당진아구찜동태찜탕
+	주소: South Korea, 서울 Seodaemun-gu, Eungam-ro, 91 1층
+	위치: {'lat': 37.5812288, 'lng': 126.9120226}
 	------------------------------
 
 
-    ⏳ 업데이트 시간: 2025-09-13 02:42:03 (UTC)
+    ⏳ 업데이트 시간: 2025-09-14 02:58:45 (UTC)
 
     ---
     자동 업데이트 봇에 의해 관리됩니다.
