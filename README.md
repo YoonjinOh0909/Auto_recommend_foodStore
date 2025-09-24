@@ -4,31 +4,31 @@
     이 리포지토리는 Google Places API를 사용하여 서울의 음식점 정보를 자동으로 업데이트합니다.
 
     ## 상위 5개 이하의 음식점 정보
-    > 오늘의 추천 음식 : 스파게티
+    > 오늘의 추천 음식 : 마라탕
 
-	이름: Alfonso Pasta
-	주소: South Korea, Seoul, Mapo-gu, Sangam-dong, 2-200 파스타공작소 101호
-	위치: {'lat': 37.5752838, 'lng': 126.8969876}
+	이름: 피슈 마라홍탕 상암점
+	주소: South Korea, Seoul, Mapo-gu, Maebongsan-ro, 80 파크엠 1층 7,8호
+	위치: {'lat': 37.5787093, 'lng': 126.8944103}
 	------------------------------
-	이름: 비스트로 꽃길
-	주소: South Korea, Gyeonggi-do, Goyang-si, Deogyang-gu, Kkonnaeeum 1-gil, 106 1층
-	위치: {'lat': 37.5992604, 'lng': 126.8896636}
+	이름: 신룽푸마라탕상암점
+	주소: South Korea, Seoul, Mapo-gu, 상암동 1596번지 상암DMC푸르지오시티 S동 CITY
+	위치: {'lat': 37.5815202, 'lng': 126.8891184}
 	------------------------------
-	이름: Hedone
-	주소: 165-6 Seongmisan-ro, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5648351, 'lng': 126.9247534}
+	이름: 쏘핫마라탕마라샹궈
+	주소: South Korea, Seoul, Mapo-gu, Sangam-dong, 4-2번지 효인빌딩 1층 103호
+	위치: {'lat': 37.578438, 'lng': 126.8949889}
 	------------------------------
-	이름: Tutti Cucina
-	주소: South Korea, Seoul, Mapo-gu, World Cup buk-ro, 400 1층
-	위치: {'lat': 37.5804379, 'lng': 126.8902411}
+	이름: 용심마라탕
+	주소: South Korea, Seoul, Mapo-gu, Maebongsan-ro 2-gil, 9 2층
+	위치: {'lat': 37.5786907, 'lng': 126.8948482}
 	------------------------------
-	이름: Spaghetti Story
-	주소: 245-15 Seongsan-dong, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5588268, 'lng': 126.9113506}
+	이름: 마라로 세끼
+	주소: 375 World Cup buk-ro, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.57754000000001, 'lng': 126.89062}
 	------------------------------
 
 
-    ⏳ 업데이트 시간: 2025-09-23 02:54:06 (UTC)
+    ⏳ 업데이트 시간: 2025-09-24 02:55:49 (UTC)
 
     ---
     자동 업데이트 봇에 의해 관리됩니다.
