@@ -4,31 +4,31 @@
     이 리포지토리는 Google Places API를 사용하여 서울의 음식점 정보를 자동으로 업데이트합니다.
 
     ## 상위 5개 이하의 음식점 정보
-    > 오늘의 추천 음식 : 선지해장국
+    > 오늘의 추천 음식 : 샌드위치
 
-	이름: 제주은희네해장국 상암MBC점
-	주소: 1603 Sangam-dong, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5808799, 'lng': 126.8902985}
+	이름: Subway
+	주소: South Korea, Seoul, Mapo-gu, Sangam-dong, World Cup buk-ro, 361 DMC 이안 오피스텔
+	위치: {'lat': 37.5770051, 'lng': 126.891433}
 	------------------------------
-	이름: 상암양평해장국
-	주소: Sangam-dong, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5777309, 'lng': 126.8949357}
+	이름: 류코스샌드위치 (Ryuco's sandwich)
+	주소: South Korea, Seoul, Mapo-gu, Dongmak-ro 15-gil, 3-12 103호
+	위치: {'lat': 37.5484038, 'lng': 126.9215306}
 	------------------------------
-	이름: 양평해장국
-	주소: 474-20 망원제2동 Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5615181, 'lng': 126.9043346}
+	이름: 써브웨이 상암DMC푸르지오시티점
+	주소: South Korea, Seoul, Mapo-gu, 상암동 World Cup buk-ro 54-gil, 25 DMC푸르지오시티 103호,104호
+	위치: {'lat': 37.5815202, 'lng': 126.8891184}
 	------------------------------
-	이름: 전주현대옥 상암DMC점
-	주소: 76 Sangamsan-ro, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5793875, 'lng': 126.8921719}
+	이름: SALT HOUSE DELI Mangwon
+	주소: 14 World Cup-ro 19-gil, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5568102, 'lng': 126.9082215}
 	------------------------------
-	이름: 양평해장국
-	주소: 13 Dangsan-ro 48-gil, 당산제2동 Yeongdeungpo District, Seoul, South Korea
-	위치: {'lat': 37.5348643, 'lng': 126.9036192}
+	이름: EASTSIDE CHICKEN SANDWICH
+	주소: 46 Donggyo-ro 27-gil, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5599559, 'lng': 126.9215081}
 	------------------------------
 
 
-    ⏳ 업데이트 시간: 2025-09-25 02:58:19 (UTC)
+    ⏳ 업데이트 시간: 2025-09-26 02:56:30 (UTC)
 
     ---
     자동 업데이트 봇에 의해 관리됩니다.
