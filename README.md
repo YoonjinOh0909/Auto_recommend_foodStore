@@ -4,31 +4,31 @@
     이 리포지토리는 Google Places API를 사용하여 서울의 음식점 정보를 자동으로 업데이트합니다.
 
     ## 상위 5개 이하의 음식점 정보
-    > 오늘의 추천 음식 : 샌드위치
+    > 오늘의 추천 음식 : 월남쌈
 
-	이름: Subway
-	주소: South Korea, Seoul, Mapo-gu, Sangam-dong, World Cup buk-ro, 361 DMC 이안 오피스텔
-	위치: {'lat': 37.5770051, 'lng': 126.891433}
+	이름: 포머이 쌀국수 연남본점
+	주소: South Korea, KR 서울특별시 마포구 동교동 200-28 화봉빌딩 포머이쌀국수 홍대연남 2층
+	위치: {'lat': 37.5578139, 'lng': 126.9226874}
 	------------------------------
-	이름: 류코스샌드위치 (Ryuco's sandwich)
-	주소: South Korea, Seoul, Mapo-gu, Dongmak-ro 15-gil, 3-12 103호
-	위치: {'lat': 37.5484038, 'lng': 126.9215306}
+	이름: 월남쌈many아
+	주소: South Korea, Seoul, Seodaemun-gu, Geobukgol-ro 18-gil, 8 1층
+	위치: {'lat': 37.5777635, 'lng': 126.9105595}
 	------------------------------
-	이름: 써브웨이 상암DMC푸르지오시티점
-	주소: South Korea, Seoul, Mapo-gu, 상암동 World Cup buk-ro 54-gil, 25 DMC푸르지오시티 103호,104호
-	위치: {'lat': 37.5815202, 'lng': 126.8891184}
+	이름: 소담촌 수색상암DMC점
+	주소: South Korea, Seoul, Eunpyeong District, Susaek-ro, 217 127호, 128호
+	위치: {'lat': 37.5795929, 'lng': 126.8986491}
 	------------------------------
-	이름: SALT HOUSE DELI Mangwon
-	주소: 14 World Cup-ro 19-gil, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5568102, 'lng': 126.9082215}
+	이름: 채선당상암디엠씨점
+	주소: 17 World Cup buk-ro 54-gil, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5814428, 'lng': 126.8886616}
 	------------------------------
-	이름: EASTSIDE CHICKEN SANDWICH
-	주소: 46 Donggyo-ro 27-gil, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5599559, 'lng': 126.9215081}
+	이름: Sodamchon
+	주소: South Korea, Seoul, Gangseo-gu, Magokjungang 6-ro, 93 열린프라자 4층
+	위치: {'lat': 37.5601489, 'lng': 126.8375893}
 	------------------------------
 
 
-    ⏳ 업데이트 시간: 2025-09-26 02:56:30 (UTC)
+    ⏳ 업데이트 시간: 2025-09-27 02:50:48 (UTC)
 
     ---
     자동 업데이트 봇에 의해 관리됩니다.
