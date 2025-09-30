@@ -4,31 +4,31 @@
     이 리포지토리는 Google Places API를 사용하여 서울의 음식점 정보를 자동으로 업데이트합니다.
 
     ## 상위 5개 이하의 음식점 정보
-    > 오늘의 추천 음식 : 북어국
+    > 오늘의 추천 음식 : 떡볶이
 
-	이름: 다북어국
-	주소: 394-90 Seogyo-dong, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5494247, 'lng': 126.9150873}
+	이름: osung mill tteokbokki
+	주소: South Korea, Seoul, Mapo-gu, Donggyo-ro, 232 2층
+	위치: {'lat': 37.5605784, 'lng': 126.9244657}
 	------------------------------
-	이름: 명품설렁탕&명품북어국 상암점
-	주소: 25 World Cup buk-ro 54-gil, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5819653, 'lng': 126.8892157}
+	이름: 맛있는 집
+	주소: 55 Geobukgol-ro 20-gil, Bukgajwa-dong, Seodaemun-gu, Seoul, South Korea
+	위치: {'lat': 37.5804053, 'lng': 126.9108304}
 	------------------------------
-	이름: Mugyo-dong Bugeo-guk
-	주소: 38 Eulji-ro 1-gil, Jung District, Seoul, South Korea
-	위치: {'lat': 37.5677475, 'lng': 126.9798528}
+	이름: 또보겠지떡볶이집 붕붕허니비점
+	주소: 22-25 Yanghwa-ro 19-gil, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5589224, 'lng': 126.9244109}
 	------------------------------
-	이름: 동우황태북어국
-	주소: 13-4 Yeouido-dong, Yeongdeungpo District, Seoul, South Korea
-	위치: {'lat': 37.5297684, 'lng': 126.9219505}
+	이름: 마왕떡볶이
+	주소: South Korea, 상암동 1601번지 KGIT교육연구센터 1층 138호 마포구 서울특별시 KR
+	위치: {'lat': 37.5801248, 'lng': 126.8889591}
 	------------------------------
-	이름: 원조북어국
-	주소: 117-1 Yangpyeong-ro, Yeongdeungpo District, Seoul, South Korea
-	위치: {'lat': 37.5374181, 'lng': 126.8943646}
+	이름: 응급실국물떡볶이상암점
+	주소: Seoul, South Korea
+	위치: {'lat': 37.5791192, 'lng': 126.8902941}
 	------------------------------
 
 
-    ⏳ 업데이트 시간: 2025-09-29 03:00:39 (UTC)
+    ⏳ 업데이트 시간: 2025-09-30 02:54:29 (UTC)
 
     ---
     자동 업데이트 봇에 의해 관리됩니다.
