@@ -4,31 +4,31 @@
     이 리포지토리는 Google Places API를 사용하여 서울의 음식점 정보를 자동으로 업데이트합니다.
 
     ## 상위 5개 이하의 음식점 정보
-    > 오늘의 추천 음식 : 카레라이스
+    > 오늘의 추천 음식 : 피자
 
-	이름: Abiko Curry
-	주소: Seoul, South Korea
-	위치: {'lat': 37.5586111, 'lng': 126.9394444}
+	이름: Pizza School
+	주소: 31-5 상암동 Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.575427, 'lng': 126.8955972}
 	------------------------------
-	이름: 오레타치 카레
-	주소: South Korea, Seoul, Mapo-gu, Hongik-ro 6-gil, 83 1층
-	위치: {'lat': 37.5573664, 'lng': 126.9255296}
+	이름: Domino's Pizza Sangam
+	주소: 336 World Cup buk-ro, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5760322, 'lng': 126.8946718}
 	------------------------------
-	이름: Abiko Curry Hongdae 2
-	주소: South Korea, Seoul, Mapo-gu, Hongik-ro 5an-gil, 20 1층
-	위치: {'lat': 37.5537645, 'lng': 126.9215422}
+	이름: Tutti Cucina
+	주소: South Korea, Seoul, Mapo-gu, World Cup buk-ro, 400 1층
+	위치: {'lat': 37.5804379, 'lng': 126.8902411}
 	------------------------------
-	이름: 카레나이스(KARE-NICE)
-	주소: South Korea, Seoul, Yeongdeungpo District, Gukjegeumyung-ro 2-gil, 32 여의도파이낸스타워 2층 204호
-	위치: {'lat': 37.5238324, 'lng': 126.9241294}
+	이름: Pizza Spirit
+	주소: South Korea, Seoul, Mapo-gu, World Cup-ro, 134 금수빌딩 1층
+	위치: {'lat': 37.5600793, 'lng': 126.9068127}
 	------------------------------
-	이름: 아비꼬 공덕역점
-	주소: 92 Mapo-daero, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5424181, 'lng': 126.9524408}
+	이름: Pizza School bukgajwa points
+	주소: 308-20 Bukgajwa-dong, Seodaemun-gu, Seoul, South Korea
+	위치: {'lat': 37.5793488, 'lng': 126.9106828}
 	------------------------------
 
 
-    ⏳ 업데이트 시간: 2025-10-18 02:51:23 (UTC)
+    ⏳ 업데이트 시간: 2025-10-19 03:11:57 (UTC)
 
     ---
     자동 업데이트 봇에 의해 관리됩니다.
