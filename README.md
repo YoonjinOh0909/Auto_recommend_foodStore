@@ -4,31 +4,31 @@
     이 리포지토리는 Google Places API를 사용하여 서울의 음식점 정보를 자동으로 업데이트합니다.
 
     ## 상위 5개 이하의 음식점 정보
-    > 오늘의 추천 음식 : 삼계탕
+    > 오늘의 추천 음식 : 된장찌개
 
-	이름: 한양삼계탕 본점
-	주소: 6 Howon-gil, Deogyang-gu, Goyang-si, Gyeonggi-do, South Korea
-	위치: {'lat': 37.5863921, 'lng': 126.8761196}
+	이름: 옥된장 상암점
+	주소: 63 World Cup buk-ro 44-gil, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5772363, 'lng': 126.8941367}
 	------------------------------
-	이름: 천지인국밥삼계탕
-	주소: South Korea, Seoul, Mapo-gu, World Cup buk-ro, 402 지하 1층
-	위치: {'lat': 37.580038, 'lng': 126.8888434}
+	이름: 검은도마 100번된장찌개
+	주소: 75 Maebongsan-ro, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5784734, 'lng': 126.8929439}
 	------------------------------
-	이름: 지호한방삼계탕 마포구청역점
-	주소: South Korea, Seoul, Mapo-gu, Mangwon-dong, 471 18번지 502호
-	위치: {'lat': 37.561677, 'lng': 126.9039586}
+	이름: 제주도감 상암본점
+	주소: South Korea, Seoul, Mapo-gu, Maebongsan-ro 2-gil, 7 제주도감 1층
+	위치: {'lat': 37.5788278, 'lng': 126.8946446}
 	------------------------------
-	이름: 오복삼계탕
-	주소: 9-16 Sinsa-dong, Eunpyeong District, Seoul, South Korea
-	위치: {'lat': 37.6014665, 'lng': 126.910086}
+	이름: 육장갈비상암점
+	주소: South Korea, 상암동 1597번지 사보이시티DMC 219 220 221호 마포구 서울특별시 KR
+	위치: {'lat': 37.5812331, 'lng': 126.8887663}
 	------------------------------
-	이름: Nam-Wongol
-	주소: 68 World Cup buk-ro 44-gil, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5775139, 'lng': 126.8940992}
+	이름: 마마된장상암점
+	주소: South Korea, Seoul, Mapo-gu, World Cup buk-ro 54-gil, 25 푸르지오시티 지하 1층 B111호
+	위치: {'lat': 37.5819653, 'lng': 126.8892157}
 	------------------------------
 
 
-    ⏳ 업데이트 시간: 2025-10-25 02:58:26 (UTC)
+    ⏳ 업데이트 시간: 2025-10-26 03:06:25 (UTC)
 
     ---
     자동 업데이트 봇에 의해 관리됩니다.
