@@ -4,31 +4,31 @@
     이 리포지토리는 Google Places API를 사용하여 서울의 음식점 정보를 자동으로 업데이트합니다.
 
     ## 상위 5개 이하의 음식점 정보
-    > 오늘의 추천 음식 : 된장찌개
+    > 오늘의 추천 음식 : 카레라이스
 
-	이름: 옥된장 상암점
-	주소: 63 World Cup buk-ro 44-gil, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5772363, 'lng': 126.8941367}
+	이름: 연남동카레
+	주소: South Korea, Seoul, Mapo-gu, 226-15 성진빌딩 1층
+	위치: {'lat': 37.5609126, 'lng': 126.91762}
 	------------------------------
-	이름: 검은도마 100번된장찌개
-	주소: 75 Maebongsan-ro, Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5784734, 'lng': 126.8929439}
+	이름: Abiko Curry
+	주소: Seoul, South Korea
+	위치: {'lat': 37.5586111, 'lng': 126.9394444}
 	------------------------------
-	이름: 제주도감 상암본점
-	주소: South Korea, Seoul, Mapo-gu, Maebongsan-ro 2-gil, 7 제주도감 1층
-	위치: {'lat': 37.5788278, 'lng': 126.8946446}
+	이름: Abiko Curry Hongdae 2
+	주소: South Korea, Seoul, Mapo-gu, Hongik-ro 5an-gil, 20 1층
+	위치: {'lat': 37.5537645, 'lng': 126.9215422}
 	------------------------------
-	이름: 육장갈비상암점
-	주소: South Korea, 상암동 1597번지 사보이시티DMC 219 220 221호 마포구 서울특별시 KR
-	위치: {'lat': 37.5812331, 'lng': 126.8887663}
+	이름: 오레타치 카레
+	주소: South Korea, Seoul, Mapo-gu, Hongik-ro 6-gil, 83 1층
+	위치: {'lat': 37.5573664, 'lng': 126.9255296}
 	------------------------------
-	이름: 마마된장상암점
-	주소: South Korea, Seoul, Mapo-gu, World Cup buk-ro 54-gil, 25 푸르지오시티 지하 1층 B111호
-	위치: {'lat': 37.5819653, 'lng': 126.8892157}
+	이름: 카레나이스(KARE-NICE)
+	주소: South Korea, Seoul, Yeongdeungpo District, Gukjegeumyung-ro 2-gil, 32 여의도파이낸스타워 2층 204호
+	위치: {'lat': 37.5238324, 'lng': 126.9241294}
 	------------------------------
 
 
-    ⏳ 업데이트 시간: 2025-10-26 03:06:25 (UTC)
+    ⏳ 업데이트 시간: 2025-10-27 03:15:50 (UTC)
 
     ---
     자동 업데이트 봇에 의해 관리됩니다.
