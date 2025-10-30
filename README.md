@@ -4,31 +4,31 @@
     이 리포지토리는 Google Places API를 사용하여 서울의 음식점 정보를 자동으로 업데이트합니다.
 
     ## 상위 5개 이하의 음식점 정보
-    > 오늘의 추천 음식 : 뼈해장국
+    > 오늘의 추천 음식 : 함박스테이크
 
-	이름: 푸짐한왕뼈
-	주소: South Korea, 상암동 2-117번지 1층 마포구 서울특별시 KR
-	위치: {'lat': 37.5769384, 'lng': 126.8965043}
+	이름: Pildong Hambak
+	주소: 7-1 Pildong-ro, Jung District, Seoul, South Korea
+	위치: {'lat': 37.5608746, 'lng': 126.9962005}
 	------------------------------
-	이름: 해장본가(韩式脊骨解酒汤)
-	주소: South Korea, Seoul, Mapo-gu, Savoycity DMC B120 스타벅스지하 1층
-	위치: {'lat': 37.5811917, 'lng': 126.8890693}
+	이름: 윤씨밀방
+	주소: 411-6 서교동 Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5496182, 'lng': 126.9223522}
 	------------------------------
-	이름: 이상수불뼈찜
-	주소: South Korea, Seoul, Mapo-gu, 월드컵북로54길 17
-	위치: {'lat': 37.5813971, 'lng': 126.8883931}
+	이름: Hamban
+	주소: 54 World Cup-ro 1-gil, Mapo-gu, Seoul, South Korea
+	위치: {'lat': 37.5490094, 'lng': 126.9100086}
 	------------------------------
-	이름: Ildeung Sikdang
-	주소: 476-1 망원제2동 Mapo-gu, Seoul, South Korea
-	위치: {'lat': 37.5605178, 'lng': 126.9043096}
+	이름: 우정함박
+	주소: South Korea, Seoul, Jung District, Suha-dong, Namdaemun-ro 10-gil, 30 2층
+	위치: {'lat': 37.5674381, 'lng': 126.9843659}
 	------------------------------
-	이름: 무리울감자탕
-	주소: South Korea, Seoul, Mapo-gu, World Cup buk-ro, 198-4 1층
-	위치: {'lat': 37.5686699, 'lng': 126.9068956}
+	이름: 고동함박
+	주소: South Korea, Seoul, Yeongdeungpo District, Gyeongin-ro 72-gil, 6 고동함박 1층
+	위치: {'lat': 37.5104881, 'lng': 126.8921763}
 	------------------------------
 
 
-    ⏳ 업데이트 시간: 2025-10-29 03:11:57 (UTC)
+    ⏳ 업데이트 시간: 2025-10-30 03:07:32 (UTC)
 
     ---
     자동 업데이트 봇에 의해 관리됩니다.
